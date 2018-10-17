@@ -1,6 +1,6 @@
 // Exported from:        http://Gauravs-MacBook-Pro.local:5516/#/templates/Folderda658fedcd344ebeb88f406750ccbf28-Releasee248d59e7e1e44d181c5ac697f5ecfa7/releasefile
 // XL Release version:   8.2.0
-// Date created:         Wed Oct 17 11:51:45 EDT 2018
+// Date created:         Wed Oct 17 11:54:29 EDT 2018
 
 xlr {
   template('master') {
@@ -58,9 +58,6 @@ xlr {
                             '<deploymentGroup>1</deploymentGroup>'
               addToEnvironment false
             }
-          }
-          manual('d') {
-            
           }
         }
       }
